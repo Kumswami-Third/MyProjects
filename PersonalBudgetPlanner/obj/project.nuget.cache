@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xgk7CsHFFRBbUQuaMkMYFrIGXDaUVPL/eM0SlKCO3NkhH7E2DfsOL96pckqwKBGJeQ3ornAx0lqm1Z8hBv6rZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brandon\\Documents\\Varsity\\Second year\\First Semester\\Prog\\PersonalBudgetPlanner\\PersonalBudgetPlanner\\PersonalBudgetPlanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brandon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

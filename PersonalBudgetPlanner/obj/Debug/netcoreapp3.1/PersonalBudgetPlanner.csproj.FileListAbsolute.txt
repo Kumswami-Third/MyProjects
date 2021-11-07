@@ -1,0 +1,60 @@
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.exe
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.deps.json
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.json
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.genruntimeconfig.cache
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetReport.resources
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.PropertyExpense.resources
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.IncomeAndMonth.resources
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetForm.resources
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.GenericExpenseForm.resources
+C:\Users\Brandon\source\repos\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.VehicleExpenseForm.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.exe
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.deps.json
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.json
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.dev.json
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csprojAssemblyReference.cache
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetForm.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetReport.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.GenericExpenseForm.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.IncomeAndMonth.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.PropertyExpense.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.VehicleExpenseForm.resources
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.GenerateResource.cache
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfoInputs.cache
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfo.cs
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.CoreCompileInputs.cache
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+E:\PROG\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.genruntimeconfig.cache
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.exe
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.deps.json
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.json
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.runtimeconfig.dev.json
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\bin\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csprojAssemblyReference.cache
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetForm.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.BudgetReport.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.GenericExpenseForm.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.IncomeAndMonth.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.PropertyExpense.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.VehicleExpenseForm.resources
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.GenerateResource.cache
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfoInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.AssemblyInfo.cs
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.dll
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.pdb
+C:\Users\Brandon\Documents\Varsity\Second year\First Semester\Prog\PersonalBudgetPlanner\PersonalBudgetPlanner\obj\Debug\netcoreapp3.1\PersonalBudgetPlanner.genruntimeconfig.cache
